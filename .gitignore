@@ -3,3 +3,4 @@
 /models
 /sample_data
 __pycache__/
+*.csv
